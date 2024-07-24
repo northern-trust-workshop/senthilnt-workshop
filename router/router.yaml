@@ -1,4 +1,4 @@
-# Configuration of the router's HTTP server
+ # Configuration of the router's HTTP server
 # Default configuration for container
 supergraph:
   # The socket address and port to listen on
